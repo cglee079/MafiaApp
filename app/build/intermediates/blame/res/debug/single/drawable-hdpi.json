@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\dev\\Android\\MAFIA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_box_my.9.png",
+        "source": "C:\\dev\\Android\\MAFIA\\app\\src\\main\\res\\drawable-hdpi\\text_box_my.9.png"
+    },
+    {
+        "merged": "C:\\dev\\Android\\MAFIA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_background.9.png",
+        "source": "C:\\dev\\Android\\MAFIA\\app\\src\\main\\res\\drawable-hdpi\\icon_background.9.png"
+    },
+    {
+        "merged": "C:\\dev\\Android\\MAFIA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notice_box.9.png",
+        "source": "C:\\dev\\Android\\MAFIA\\app\\src\\main\\res\\drawable-hdpi\\notice_box.9.png"
+    },
+    {
+        "merged": "C:\\dev\\Android\\MAFIA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_box.9.png",
+        "source": "C:\\dev\\Android\\MAFIA\\app\\src\\main\\res\\drawable-hdpi\\text_box.9.png"
+    }
+]

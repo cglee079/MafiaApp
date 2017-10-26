@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/overallPadding"
+    android:background="@drawable/background"
+    >
+
+    <TextView
+        android:text="NOTICE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_wait_notice"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/red"
+        android:textSize="15sp"
+        android:textStyle="normal|bold"
+        android:layout_margin="@dimen/object_margin"
+        android:background="@drawable/icon_background"
+        android:padding="@dimen/object_margin" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv_waitlist"
+        android:layout_weight="1"
+        android:padding="@dimen/object_margin2"
+        android:background="#EEFFFFFF" />
+
+    <Button
+        android:text="READY"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:id="@+id/btn_wait_ready"
+
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+         />
+</LinearLayout>

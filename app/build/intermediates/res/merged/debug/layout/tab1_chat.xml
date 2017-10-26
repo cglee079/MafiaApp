@@ -1,0 +1,159 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.changoo.mafia.activity.PlayActivity$tab1"
+    android:orientation="vertical">
+
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/lv_chats"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+
+        <Button
+            android:text="+"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/btn_showemoticons"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:layout_marginLeft="@dimen/object_margin2"
+            android:layout_marginRight="@dimen/object_margin2"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/et_text"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/object_margin" />
+
+        <Button
+            android:text="send"
+            android:layout_width="64dp"
+            android:layout_height="34dp"
+            android:id="@+id/btn_send"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:layout_marginLeft="@dimen/object_margin2"
+            android:layout_marginRight="@dimen/object_margin2" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:background="#FFFF"
+        android:columnCount="4"
+        android:id="@+id/layout_emoticons"
+        android:visibility="gone"
+        android:layout_height="200dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageButton
+                app:srcCompat="@drawable/emoticon1"
+                android:id="@+id/btn_emoticon1"
+                android:background="#FFFF"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                app:srcCompat="@drawable/emoticon2"
+                android:id="@+id/btn_emoticon2"
+                android:background="#FFFF"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                app:srcCompat="@drawable/emoticon3"
+                android:id="@+id/btn_emoticon3"
+                android:background="#FFFF"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                app:srcCompat="@drawable/emoticon4"
+                android:id="@+id/btn_emoticon4"
+                android:background="#FFFF"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/object_margin" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/emoticon5"
+                android:id="@+id/btn_emoticon5"
+                android:background="#FFFF"
+                android:layout_width="90dp"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/emoticon6"
+                android:id="@+id/btn_emoticon6"
+                android:background="#FFFF"
+                android:layout_width="90dp"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/emoticon7"
+                android:id="@+id/btn_emoticon7"
+                android:background="#FFFF"
+                android:layout_width="90dp"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/object_margin" />
+
+            <ImageButton
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/emoticon8"
+                android:id="@+id/btn_emoticon8"
+                android:background="#FFFF"
+                android:layout_width="90dp"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/object_margin" />
+        </TableRow>
+
+
+    </TableLayout>
+
+</LinearLayout>

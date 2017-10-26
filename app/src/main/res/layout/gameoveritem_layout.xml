@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_username_gameover"
+        android:layout_toRightOf="@+id/img_character_gameover"
+        android:layout_alignBottom="@+id/img_character_gameover"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/object_margin" />
+
+    <ImageView
+        app:srcCompat="@mipmap/ic_launcher"
+        android:id="@+id/img_character_gameover"
+        android:layout_margin="@dimen/object_margin2"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_state_gameover"
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@+id/tv_username_gameover"
+        android:textColor="@color/black"
+        android:layout_marginRight="@dimen/object_margin" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_character_gameover"
+        android:layout_below="@+id/img_character_gameover"
+        android:layout_alignLeft="@+id/img_character_gameover"
+        android:layout_alignRight="@+id/img_character_gameover"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:textAlignment="center" />
+
+</RelativeLayout>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_2024f0659112ea9ec6af5310ba0be7f815e9f331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\changoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_6ac67a636fd76e805b5b401451b71f77bd61f8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_cbd281308be16ebcff2213cb92551992cc7a700b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e7e37df46e93e9432e1a7939fc90790057aca44d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_dae547692dfc3d0046d54361df355d082b09d7ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_95c144447b29a60ccf0ae673fb82bbd51de02028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_be41549c73893bbd8df0cf0ee9f0835cf877aced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_a39e5e28115301095583bd34e98e0ee2a7723898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_ed9375a3b02549c2d0a8861c2b243a8902c7a021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_1a39eb718a43273c30ebb1342c03421d052883a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_63ad0c0d9b1a320a70e2e03aadbbf3492b521f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5fb18cd8c63025b7a1383b836751e06f5d950f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3cc317a6c3928ddf57705bb95890c4565a4fcf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_f0500323412823ebdf6240576b7d4553e5dae9cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_72f6d93fb8ca57009bb69f497248a7ffc4b4b9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_0df282e0924eeae83097d72e4d1f6f7979f089d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_e93fe9e771ad06fd52679aa2e0042ea523214523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\dev\Android\MAFIA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\dev\Android\MAFIA\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a67eb3874754c41483827bd6decf0e8fdaa7cd4b.jar" />
+    </item>
+
+</items>
